@@ -6,7 +6,7 @@ This repository contains my C++ practice programs focused on understanding objec
 
 ## 📌 Objective
 
-To build a strong foundation in C++ and understand Object-Oriented Programming (OOP) through hands-on implementation.
+To build a strong foundation in C++ and understand Object-Oriented Programming (OOP) through hands-on implementation
 
 ---
 
